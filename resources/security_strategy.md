@@ -1,4 +1,4 @@
-# Advanced Web Diagnosis Strategy
+# Advanced Web security Strategy
 
 이 문서는 단순 체크리스트 탐지를 넘어 서비스 흐름 기반 취약점 가설을 만들기 위한 전략이다.
 
