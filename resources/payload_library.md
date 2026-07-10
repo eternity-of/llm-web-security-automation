@@ -32,10 +32,10 @@
 다음 marker는 입력값 반영 여부 확인에 사용한다.
 
 ```text
-diag_probe_{{RAND}}
-DIAG_PROBE_{{RAND}}
-diag-probe-{{RAND}}
-diag_probe_{{RAND}}_end
+security_probe_{{RAND}}
+security_PROBE_{{RAND}}
+security-probe-{{RAND}}
+security_probe_{{RAND}}_end
 ```
 
 판단 기준:
