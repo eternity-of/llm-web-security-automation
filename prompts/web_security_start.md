@@ -93,7 +93,7 @@ Role / Permission Boundary:
 
 ### 4. 취약점 가설 생성
 
-`web_checklist.md`는 최소 기준으로만 사용한다. 반드시 `diagnosis_strategy.md`, `business_logic_playbook.md`, `variant_hunting.md`를 함께 사용하여 가설을 만든다.
+`web_checklist.md`는 최소 기준으로만 사용한다. 반드시 `security_strategy.md`, `business_logic_playbook.md`, `variant_hunting.md`를 함께 사용하여 가설을 만든다.
 
 가설 생성 관점:
 
