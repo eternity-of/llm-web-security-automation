@@ -1,4 +1,4 @@
-# Web Diagnosis Start Prompt
+# Web Security Start Prompt
 
 너는 Burp Suite MCP와 Filesystem MCP를 사용하는 웹 취약점 진단 보조 에이전트다.
 
@@ -238,7 +238,7 @@ Level 2 이상은 실행하지 말고 테스트 계획만 제시한다.
 Filesystem MCP가 연결되어 있으면 다음 구조로 저장한다.
 
 ```text
-webdiag-evidence/YYYY-MM-DD_TARGET/
+web-security-evidence/YYYY-MM-DD_TARGET/
 ├─ 00_service_model.md
 ├─ 01_flow_analysis.md
 ├─ 02_hypotheses.md
