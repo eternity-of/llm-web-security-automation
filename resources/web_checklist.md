@@ -1,4 +1,4 @@
-# Web Vulnerability Diagnosis Checklist
+# Web Vulnerability security Checklist
 
 이 문서는 기본 취약점 후보를 식별하기 위한 최소 체크리스트다. 이 문서에 없는 항목도 `security_strategy.md`와 `business_logic_playbook.md` 기준으로 가설화해야 한다.
 
