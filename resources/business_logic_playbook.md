@@ -1,4 +1,4 @@
-# Business Logic Diagnosis Playbook
+# Business Logic Security Playbook
 
 이 문서는 기술 취약점 이름으로 바로 분류되지 않는 비즈니스 로직 취약점을 찾기 위한 기준이다.
 
