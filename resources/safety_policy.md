@@ -1,4 +1,4 @@
-# Web Diagnosis Safety Policy
+# Web Security Safety Policy
 
 이 문서는 Burp Suite MCP를 사용하는 웹 취약점 진단 보조 에이전트의 실제 요청 전송, 테스트 수행, 결과 저장 기준이다.
 
